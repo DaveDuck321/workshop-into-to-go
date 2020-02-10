@@ -1,3 +1,5 @@
-[[This is template content]]
+Before this workshop
 
-This file should explain what the target audience should already know before the workshop. If possible, provide detail and links to good resources to learn the prerequisites.
+- Install [Go](https://golang.org/)
+- Install [VSCode](https://code.visualstudio.com/) (or another editor with good GoLang support)
+- Clone the repository github.com/DaveDuck321/workshop-into-to-go
